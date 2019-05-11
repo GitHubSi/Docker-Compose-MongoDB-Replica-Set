@@ -8,4 +8,4 @@ echo "******************************"
 sleep 20 | echo Sleeping
 echo `date`
 
-mongo mongodb://mongo1:27017 replicaSet.js
+mongo mongodb://mongo1:37017 replicaSet.js
